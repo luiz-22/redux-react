@@ -4,8 +4,6 @@ Práctica con Redux + React.
 
 ![Redux](public/redux.png)
 
-![Redux](public/redux+react.png)
-
 ## Instalar y ejecutar
 
 ```bash
@@ -15,3 +13,5 @@ npm i
 ```bash
 npm run dev
 ```
+
+![Redux](public/redux+react.png)
