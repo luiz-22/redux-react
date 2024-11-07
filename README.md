@@ -1,15 +1,19 @@
 <h1 align="center">Redux + React</h1>
 
-Práctica con Redux + React.
+Implementación de Redux con React.
 
-![Redux](public/redux.png)
-
-## Instalar y ejecutar
+## Instalar
 
 ```bash
 npm i
 ```
 
+## Ejecutar
+
 ```bash
 npm run dev
 ```
+
+## Guía básica de Redux
+
+[Link](https://luisblog.vercel.app/redux/inicio)
