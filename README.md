@@ -1,4 +1,4 @@
-<h1 align="center">Redux + React</h1>
+# Redux + React
 
 Implementación de Redux con React.
 
